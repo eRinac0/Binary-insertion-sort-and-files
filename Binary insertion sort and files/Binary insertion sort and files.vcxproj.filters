@@ -14,4 +14,23 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="array_in_n.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
+    <Text Include="array_out_n.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
+    <Text Include="matr_in_n.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
+    <Text Include="task3.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
